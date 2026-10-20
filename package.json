@@ -6,7 +6,8 @@
   "scripts": {
   "start": "node src/server.js",
   "test": "jest",
-  "test:coverage": "jest --coverage"
+  "test:coverage": "jest --coverage",
+  "lint": "eslint src tests"
 },
   "keywords": [],
   "author": "",
