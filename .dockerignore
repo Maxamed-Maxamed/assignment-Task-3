@@ -1,0 +1,9 @@
+node_modules
+coverage
+.git
+.github
+Task3-Evidence
+.env
+*.log
+.DS_Store
+README.md
